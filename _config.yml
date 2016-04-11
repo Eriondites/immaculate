@@ -2,7 +2,7 @@ title: Immaculate
 description: >
   A beautiful, fast, AMP-compliant Jekyll theme based on Tufte CSS.
 baseurl: "/immaculate"
-url: "https://github.com/Eriondites/immaculate"
+url: "http://eriondites.github.io/immaculate"
 paginate:	2 # The number of posts to show per page on your homepage
 name: "The Eriondites"
 markdown: kramdown
